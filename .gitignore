@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+
+# Dataset binario (descargarlo por separado o generarlo)
+*.npy
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales de Kiro
+.kiro_tmp/
+
+# OS
+.DS_Store
+Thumbs.db
